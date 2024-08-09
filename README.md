@@ -3,14 +3,14 @@
 <h1 align="center">
   <br>
 
-[![logo](./public/flash-cards.png)](https://abflashcardgenerator.netlify.app)
+[![logo](./public/flash-cards.png)](https://flashcardgeneratorab.netlify.app)
 
 </h1>
 
 Flashcard Generator is a web application that allows users to create, manage, and share custom flashcards. It provides an intuitive interface and a comprehensive set of features to enhance the learning process.
 
 <h2 align='center'>
-<a href='https://abflashcardgenerator.netlify.app' target="_blank">Click For Demo</a>
+<a href='https://flashcardgeneratorab.netlify.app' target="_blank">Click For Demo</a>
 </h2>
 
 <p align="center">  
